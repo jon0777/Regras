@@ -84,3 +84,6 @@ Se não houver acordo ou boa-fé, a punição será aplicada imediatamente.
 
 ## Art. 25°
 O intervalo para o uso do bot é de **2 a 3 horas**.
+
+## Art. 26°
+Após dar o tempo de segurança e não houver uma confirmação, espere mais 30 minutos para você realizar o pagamento sem a confirmação.
