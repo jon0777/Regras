@@ -87,3 +87,6 @@ O intervalo para o uso do bot é de **2 a 3 horas**.
 
 ## Art. 26°
 Após dar o tempo de segurança e não houver uma confirmação, espere mais 30 minutos para você realizar o pagamento sem a confirmação.
+
+## Art. 27°
+ADM está proibido de pegar contas de clientes fiado, emprestado ou parcelado. Cliente que aceitar isso, ficará responsável por sua própria decisão. Se o adm efetuou o pagamento ao cliente pegando contas parceladas, o ban será imediato. se apenas houve especulação terá o cargo retirado por 1 mês. Assim como pegar contas emprestada.
