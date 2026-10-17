@@ -18,7 +18,7 @@ Administradores não podem avaliar contas de membros do grupo.
 
 ## Art. 6°
 Administradores não podem dar referências de outros ADMs no privado.  
-Referências só são válidas quando feitas em marcação pública de referências.
+Referências só são válidas quando feitas em marcação nos grupos.
 
 ## Art. 7°
 Ao vender contas vinculadas ao **Play Games** ou **Game Center**, a garantia é permanente.  
@@ -90,3 +90,6 @@ Após dar o tempo de segurança e não houver uma confirmação, espere mais 30 
 
 ## Art. 27°
 ADM está proibido de pegar contas de clientes fiado, emprestado ou parcelado. Cliente que aceitar isso, ficará responsável por sua própria decisão. Se o adm efetuou o pagamento ao cliente pegando contas parceladas, o ban será imediato. se apenas houve especulação terá o cargo retirado por 1 mês. Assim como pegar contas emprestada.
+
+## Art. 28°
+Proibido adm/revendedor mandar prints de referências no privado. Deve ser feita uma marcação de referências no grupo.
